@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-
-int main(int argc, char const *argv[])
+void main()
 {
-    printf("good evening\n");
-    return 0;
+    printf("good evening\a");
+    
+    
 }
