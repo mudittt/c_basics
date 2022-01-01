@@ -1,0 +1,1 @@
+puts(rev_arr);
