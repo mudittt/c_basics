@@ -1,0 +1,9 @@
+
+ Worker Name: ananya
+ Salary : 90000
+
+ Worker Name: aakriti
+ Salary : 120000
+
+ Worker Name: anya
+ Salary : 90000
